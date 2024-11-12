@@ -1,0 +1,5 @@
+com/example/carros/model/Carro.class
+com/example/carros/repository/CarroRepository.class
+com/example/carros/service/CarroService.class
+com/example/carros/CarroApplication.class
+com/example/carros/controller/CarroController.class
